@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About :sunglasses:
+## About me :) :sunglasses:
 I'm Currently learning Java & Javascript programing language you could say I'am newbie.
 - 🤔 I’m looking for help with Java Javascript.
 
