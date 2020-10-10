@@ -1,4 +1,4 @@
-### Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'am Dakha Mohammed 👋
+### Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="38px">, I'am Dakha Mohammed 👋
 
 <!--
 **xmsdos/xmsdos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## About me :) :sunglasses:
 I'm Currently learning Java & Javascript programing language you could say I'am newbie.
 - 🤔 I’m looking for help with Java Javascript.
+- 🔭 I’m currently working on ...
 
 <a href="https://github.com/xmsdos">
   <img src="https://github-readme-stats.vercel.app/api?username=xmsdos&show_icons=true" alt="WEGFan's GitHub Stats" />
