@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 ## About me :) :sunglasses:
 I'm Currently learning Java & Javascript programing language you could say I'am newbie.
 - 🤔 I’m looking for help with Java Javascript.
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently good on ...
+- [ ] React js.
+- [ ] React Native.
+- [ ] Cordova.
+- [x] HTML.
+- [x] CSS.
+- [ ] Dart.
+- [ ] PHP
 
 <a href="https://github.com/xmsdos">
   <img src="https://github-readme-stats.vercel.app/api?username=xmsdos&show_icons=true" alt="WEGFan's GitHub Stats" />
